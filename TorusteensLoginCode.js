@@ -1,6 +1,3 @@
-export default connect(mapStateToProps, mapDispatchToProps)(Login);
-
-
 import React, {Component} from 'react'
 import {
   View,
